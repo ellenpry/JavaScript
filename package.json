@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellenpry/JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellenpry/JavaScript/issues"
+  },
+  "homepage": "https://github.com/ellenpry/JavaScript#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
