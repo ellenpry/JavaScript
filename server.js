@@ -73,10 +73,10 @@ app.delete('/users/:id', async (request, response) => {
 app.listen(3000) // pra rodar meu servidor ('node server.js' no terminal)
 
 /*
-
-1. Tipo de Rota / Método HTTP
-2. Endereço
-
+comandos importantes:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+node server.js
+npx prisma studio
 */
 
 /*
